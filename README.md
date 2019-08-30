@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Profcode PHP Framework
 
 Framework PHP yang didukung oleh kemampuan Glue CLI dan didukung oleh prinsip MVC(Model View Controller)
 
 ### Controller
 
 HelloworldController.php
-```
+```php
 <?php
 namespace Profcode\App\Controller;
 use \Profcode\Controller;
